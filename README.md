@@ -1,6 +1,6 @@
-## Ghostworks SaaS Platform
+# Ghostworks SaaS Platform
 
-# A production-grade, AI-native multi-tenant SaaS platform that demonstrates autonomous development capabilities. Built with Next.js, FastAPI, PostgreSQL, and comprehensive observability.
+## A production-grade, AI-native multi-tenant SaaS platform that demonstrates autonomous development capabilities. Built with Next.js, FastAPI, PostgreSQL, and comprehensive observability.
 
 <img width="1316" height="1110" alt="ghostworks2" src="https://github.com/user-attachments/assets/f36df201-3c1a-4aa0-a764-30cc8461c4a5" />
 
